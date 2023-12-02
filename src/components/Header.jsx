@@ -58,7 +58,7 @@ export default function Header() {
         className="p-1 font-normal"
       >
         <NavLink to="/team" className="nav-link ">
-          Team
+          Teams
         </NavLink>
       </Typography>
       <Typography
